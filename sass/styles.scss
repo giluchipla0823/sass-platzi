@@ -1,4 +1,18 @@
-@import "_variables.scss";
+// Librerías, settings y variables
+@import "lib/variables.scss";
+@import "tablas.scss";
+
+// Elementos base
+@import "base/buttons.scss";
+@import "base/links.scss";
+@import "base/typography.scss";
+
+// Components
+@import "components/grids.scss";
+
+@import "components/utilities.scss";
+
+// Utilities
 
 body {
   font: 100% $font-stack;
@@ -12,3 +26,4 @@ body {
 .header{
 	color: $primary-color;
 }
+

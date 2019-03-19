@@ -6,3 +6,13 @@ https://www.sassmeister.com/
 
 # Resumen del curso 
 https://github.com/MineiToshio/CursosPlatzi/tree/master/Curso%20de%20Sass
+
+# Compilar SASS
+sass source/stylesheets/index.scss build/stylesheets/index.css
+
+# Detalles sobre "_" 
+el _ lo que hace es identificar que es un parcial y lo une todo en el archivo si no tiene el _ entonces SASS va a compilar el archivo de variables aparte y su contenido no va a estar en el archivo principal.
+
+
+# Clase Actual: solución al reto:
+minuto: 07:33
