@@ -3,3 +3,6 @@ https://sass-lang.com/install
 
 # Web para trabajar con sass
 https://www.sassmeister.com/
+
+# Resumen del curso 
+https://github.com/MineiToshio/CursosPlatzi/tree/master/Curso%20de%20Sass
