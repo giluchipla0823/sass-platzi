@@ -1,5 +1,6 @@
 // Librerías, settings y variables
 @import "lib/variables.scss";
+@import "lib/mixins.scss";
 @import "tablas.scss";
 // Elementos base
 @import "base/buttons.scss";
@@ -8,6 +9,11 @@
 // Components
 @import "components/grids.scss";
 @import "components/utilities.scss";
+
+// Layout
+@import "layout/layout.scss";
+
+
 body {
     font: 100% $font-stack;
     color: $primary-color;
